@@ -1,0 +1,7 @@
+
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: https://dev-fdaf0acqkz52dgfo.us.auth0.com/
